@@ -4,6 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Developer
 ---------------------
 
-I've been coding for 4 years now, I'm very experienced in making minecraft plugins
+the difference between my birth year and the year of when I started coding is negative. I'm very experienced in making minecraft plugins
 
 *   ✉️  You can contact me at [comemache@gmail.com](mailto:comemache@gmail.com)
